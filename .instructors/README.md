@@ -140,6 +140,7 @@ If they are struggling, asking them to draw out what is happening can be helpful
 Goals of this problem:
 - Understanding base+offset and general memory dereferencing
 - Conditional logic and early-exit
+- Can optimize code with test and nderstanding of flags
 - Iterating off of other code
 ```
 
